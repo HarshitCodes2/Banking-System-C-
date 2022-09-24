@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <fstream>
-#include <typeinfo>
 using namespace std;
 
 int counter = 0;    // keeps count of how many accounts have been created
